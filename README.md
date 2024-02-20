@@ -1,6 +1,6 @@
 <div><br class="Apple-interchange-newline"># About Myself,
 
-Hi! I'm Nandana A, a B.Tech Computer Science & Engineering student at Saintgits College of Engineering in my 2nd year. I'm passionate about building software solutions and exploring emerging technologies.
+Hi! I'm Nandana A, a 2nd year B.Tech Computer Science & Engineering student at Saintgits College of Engineering .  I'm passionate about building software solutions and exploring emerging technologies.
 
 ## Skills
 
@@ -13,7 +13,8 @@ Hi! I'm Nandana A, a B.Tech Computer Science & Engineering student at Saintgits 
 * Web Development
 * Reading
 
-
-##Contacts
+##Contact
 
 *Gmail:nandanaajayakumar2004@gmail.com
+
+I'm looking forward to opportunities to improve my skills and be competitive enough to face real-world challenges. 

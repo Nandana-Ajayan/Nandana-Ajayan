@@ -15,6 +15,6 @@ Hi! I'm Nandana A, a 2nd year B.Tech Computer Science & Engineering student at S
 
 ##Contact
 
-*Gmail:nandanaajayakumar2004@gmail.com
+* Gmail:nandanaajayakumar2004@gmail.com
 
 I'm looking forward to opportunities to improve my skills and be competitive enough to face real-world challenges. 

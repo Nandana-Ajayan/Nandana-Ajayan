@@ -1,4 +1,6 @@
-<div><br class="Apple-interchange-newline">## About Myself,
+<div><br class="Apple-interchange-newline">
+  
+  ## About Myself,
 
 Hi! I'm  Nandana A, a 2nd year B.Tech Computer Science & Engineering student at Saintgits College of Engineering .  I'm passionate about building software solutions and exploring emerging technologies.
 
@@ -18,5 +20,5 @@ Hi! I'm  Nandana A, a 2nd year B.Tech Computer Science & Engineering student at 
 * Gmail:nandanaajayakumar2004@gmail.com
 
 I'm looking forward to opportunities to improve my skills and be competitive enough to face real-world challenges. 
+![emoji](https://github.com/Nandana-Ajayan/Nandana-Ajayan/assets/160465008/9e0a9612-93d5-46ed-a88a-e61341a7c8e9)
 
-![me](https://github.com/Nandana-Ajayan/Nandana-Ajayan/assets/160465008/38e66c7e-0209-4bc5-b74a-d5aa0e669362)

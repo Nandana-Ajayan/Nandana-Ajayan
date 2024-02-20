@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Nandana-Ajayan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
+<div><br class="Apple-interchange-newline"># About Myself,
 
-Nandana-Ajayan/Nandana-Ajayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi! I'm Mathews Reji, a B.Tech Computer Science & Engineering student at Saintgits College of Engineering in my 2nd year. I'm passionate about building software solutions and exploring emerging technologies.
 
+## Skills
+
+* Programming Languages: Python, Java, C,C++
+* Soft Skills: Teamwork, Communication, Problem-Solving, Presentation Skills
+
+## Interests
+
+* Machine Learning
+* Web Development
+* Racing
